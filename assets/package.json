@@ -10,8 +10,8 @@
     "@polymer/paper-spinner": "^3.0.2",
     "@polymer/polymer": "^3.2.0",
     "@vaadin/vaadin-date-picker": "^3.3.4",
-    "phoenix": "file:../../../deps/phoenix",
-    "phoenix_html": "file:../../../deps/phoenix_html",
+    "phoenix": "file:../deps/phoenix",
+    "phoenix_html": "file:../deps/phoenix_html",
     "phoenix_live_view": "file:../deps/phoenix_live_view"
   },
   "devDependencies": {
